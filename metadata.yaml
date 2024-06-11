@@ -1,0 +1,31 @@
+_repo: Virtu-e-delitto-b-O-la-famiglia-del-masnadiero-novella-storica-del-secolo-XVI_73733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbieri, Gaetano
+    birthdate: 1767
+    deathdate: 1853
+    gutenberg_agent_id: '42224'
+    url: http://www.gutenberg.org/2009/agents/42224
+description: ''
+gutenberg_issued: '2024-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73733'
+language: it
+pgterms:marc904: http://www.braidense.it/dire/virtu.pdf
+pgterms:marc905: 20230408081857barbieri
+pgterms:marc906: '1837'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bBonfanti, $c1837.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Virtù e delitto : $b O la famiglia del masnadiero: novella storica del secolo
+  XVI'
+url: http://www.gutenberg.org/ebooks/73733
