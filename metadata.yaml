@@ -1,5 +1,8 @@
 _repo: Virtu-e-delitto-b-O-la-famiglia-del-masnadiero-novella-storica-del-secolo-XVI_73733
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73733-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbieri, Gaetano
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '42224'
     url: http://www.gutenberg.org/2009/agents/42224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73733#Virtu-e-delitto-b-O-la-famiglia-del-masnadiero-novella-storica-del-secolo-XVI
 gutenberg_issued: '2024-05-30'
 gutenberg_type: Text
 identifiers:
